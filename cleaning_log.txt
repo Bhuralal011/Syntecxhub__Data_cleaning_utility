@@ -1,0 +1,8 @@
+Initial shape: (891, 12)
+Column names standardized
+Removed 0 duplicate rows
+Converted ticket to numeric
+Filled 177 missing values in age with mean
+Filled 230 missing values in ticket with mean
+Filled 687 missing values in cabin with mode
+Filled 2 missing values in embarked with mode
